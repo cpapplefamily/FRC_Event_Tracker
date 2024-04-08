@@ -7,6 +7,7 @@ Initial vision is to create an application to dynamically create a map of teams 
 ## Other Possible Uses 
 * Robot Inspection
 * Pit Scouting
+* Spare Parts
 
 ## Wants
 * Use Event Code for TBA synchronization
